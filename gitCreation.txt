@@ -1,1 +1,2 @@
 "This is a txt file I made on GitHub's text editor."
+"I'm going to test the pull command now."
